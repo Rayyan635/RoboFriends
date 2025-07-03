@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# robofriends
+# RoboFriends
 Tutorial for React
 To run the project: 
 
